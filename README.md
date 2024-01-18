@@ -1,5 +1,5 @@
 <h1 align="center">song5655 Second_Project</h1>
-<h3 align="center">Java, Jsp를 활용한 강의평가 사이트</h3><br/>
+<h3 align="center">Java, JSP를 활용한 강의평가 사이트</h3><br/>
 
 - 개요 : **회원 관리 및 강의평가 서비스를 제공하는 웹페이지 제작**
 
